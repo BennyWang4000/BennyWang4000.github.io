@@ -45832,7 +45832,7 @@ T.aaq(C.zk,C.f_)
 return S.a2r(new M.qA(new E.o_(C.FA,new E.Ey(r,r,1/0,56),r),M.jh(r,T.a38(H.a([T.a1Z(M.jh(r,new R.pU(q,new D.ku(q,t.wh)),r,new S.dG(C.Ag,r,r,K.va(10),r,r,C.Z),r,r,r,r)),C.um,T.vp(s,r,r),C.um,T.a1Z(M.jh(r,r,r,new S.dG(C.Ah,r,r,K.va(10),r,r,C.Z),r,r,r,r))],t.p),C.cM,C.f0),r,r,r,r,C.xH,r),r),r,"TITLE")},
 Se(){}}
 F.xY.prototype={
-R(a,b){return S.a2r(C.Aq,X.a_g(null),"Flutter Demo")}}
+R(a,b){return S.a2r(C.Aq,X.a_g(null),"MNIST test")}}
 E.hc.prototype={
 gl(a){return this.b},
 i(a,b){if(b>=this.b)throw H.b(P.bc(b,this,null,null,null))
